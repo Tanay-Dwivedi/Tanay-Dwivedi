@@ -41,7 +41,8 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanay-Dwivedi&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Tanay-Dwivedi&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanay-Dwivedi&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanay-Dwivedi&theme=nord_dark)
 
-![Tanay's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tanay-Dwivedi&theme=github)
+<p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Tanay-Dwivedi&bg_color=050505&color=a694ff&line=9f85ff&point=00ff1e&area=true&hide_border=true" alt="Graph" /></p>
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
