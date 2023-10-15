@@ -1,6 +1,6 @@
 
 <p align="center">
-<!-- <img src="https://github-widgetbox.vercel.app/api/profile?username=Tanay-Dwivedi&data=followers,repositories,stars,commits"> -->
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Tanay-Dwivedi&data=followers,repositories,stars,commits">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
