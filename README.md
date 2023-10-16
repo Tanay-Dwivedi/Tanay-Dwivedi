@@ -38,10 +38,11 @@
 ## 📊 GitHub Activity
 | ![Tanay github stats](https://github-readme-stats.vercel.app/api?username=Tanay-Dwivedi&show_icons=true&theme=radical) | ![Tanay GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tanay-Dwivedi&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanay-Dwivedi&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Tanay-Dwivedi&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+| ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanay-Dwivedi&theme=radical&utcOffset=8) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Tanay-Dwivedi&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanay-Dwivedi&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanay-Dwivedi&theme=nord_dark)
 
-<p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Tanay-Dwivedi&bg_color=050505&color=a694ff&line=9f85ff&point=00ff1e&area=true&hide_border=true" alt="Graph" /></p>
+[![Shrey Srivastava github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanay-Dwivedi&bg_color=000000&color=22CCB2&line=ffffff&point=22CCB2&area=true&hide_border=true)](https://github.com/Shrey-Srivastava21/github-readme-activity-graph)
+<hr>
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
