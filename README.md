@@ -47,6 +47,14 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+
+
+[![An image of @tanay_boiii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanay_boiii)](https://holopin.io/@tanay_boiii)
+
+<br>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ### <img src="stack.png" style="width:750px" align = "center">
 
 |               |           |
